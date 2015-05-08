@@ -1,0 +1,5 @@
+-[Fundamentals and Best Practices (2012)](http://andrewscala.com/meteor/)
+-[App in 45 minutes](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
+-[Twitter Streaming](https://forums.meteor.com/t/newb-question-for-twitter-streaming/2127)
+-[Exploring Twitter API with Meteor](http://artsdigital.co/exploring-twitter-api-meteor-js/)
+-[Using Streaming Data from Twitter with Meteor](http://stackoverflow.com/questions/21919794/using-streaming-data-from-twitter-with-meteor)
