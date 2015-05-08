@@ -11,3 +11,5 @@
 ##Chat
 - [Simple Meteor chatroom ex.](https://github.com/dasniko/meteor-chat)
 - [Another simple chat app](https://github.com/luki3k5/meteor-chat-app)
+- [InstaChat](https://github.com/spicytuna/InstaChat)
+- [Meteor chat tutorial](https://github.com/sebdah/meteor-chat-tutorial)
