@@ -9,7 +9,8 @@
 - [Twitter Streaming](https://forums.meteor.com/t/newb-question-for-twitter-streaming/2127)
 
 ##Chat
+- [Real time messaging with streams](http://code.tutsplus.com/tutorials/real-time-messaging-for-meteor-with-meteor-streams--net-33409)
+- [Meteor chat tutorial by sebdah](https://github.com/sebdah/meteor-chat-tutorial)
 - [Simple Meteor chatroom ex.](https://github.com/dasniko/meteor-chat)
 - [Another simple chat app](https://github.com/luki3k5/meteor-chat-app)
 - [InstaChat](https://github.com/spicytuna/InstaChat)
-- [Meteor chat tutorial](https://github.com/sebdah/meteor-chat-tutorial)
