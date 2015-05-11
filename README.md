@@ -4,7 +4,7 @@
 - [App in 45 minutes](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
 
 ##Packages
-[meteor add]
+meteor add '...'
 ###essentials
 - [insecure](https://atmospherejs.com/meteor/insecure)
 - [..remove autopublish // Autopublish (remove this!)](https://atmospherejs.com/meteor/autopublish)
@@ -28,7 +28,7 @@
 - [cw4gn3r:accounts-reddit // Reddit](https://atmospherejs.com/cw4gn3r/accounts-reddit)
 - [bozhao:accounts-instagram // Instagram](https://atmospherejs.com/bozhao/accounts-instagram)
 - [mrt:accounts-steam // Steam](https://atmospherejs.com/mrt/accounts-steam)
-###graphs and charts
+###charts and graphs
 - [d3js:d3 // D3.js](https://atmospherejs.com/d3js/d3)
 - [emdagon:c3js // C3js](https://atmospherejs.com/emdagon/c3js)
 
