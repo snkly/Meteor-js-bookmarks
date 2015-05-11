@@ -3,8 +3,7 @@
 - [Fundamentals and Best Practices (2012)](http://andrewscala.com/meteor/)
 - [App in 45 minutes](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
 
-##Packages
-[meteor add ...]
+##Packages (meteor add ...)
 #essentials
 - [insecure](https://atmospherejs.com/meteor/insecure)
 - [..remove autopublish // Autopublish (remove this!)](https://atmospherejs.com/meteor/autopublish)
