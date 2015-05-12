@@ -1,4 +1,4 @@
-## Overview
+## verview
 - [Meteor Tips (book)](http://meteortips.com/book/introduction/)
 - [Fundamentals and Best Practices (2012)](http://andrewscala.com/meteor/)
 - [App in 45 minutes](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
@@ -40,12 +40,13 @@ meteor add '...'
 - [Twitter Streaming](https://forums.meteor.com/t/newb-question-for-twitter-streaming/2127)
 
 ## Chat
-#### client only
+#### client
 - [Meteor chat tutorial by sebdah](https://github.com/sebdah/meteor-chat-tutorial)
+- [Simple Meteor chatroom ex.](https://github.com/dasniko/meteor-chat)
+- [Another simple chat app](https://github.com/luki3k5/meteor-chat-app)
+- [InstaChat](https://github.com/spicytuna/InstaChat) 
 
 #### client/server
 - [Real time messaging with streams](http://code.tutsplus.com/tutorials/real-time-messaging-for-meteor-with-meteor-streams--net-33409)
 - [Chat with user-created rooms] (https://ce-bt-chat.meteor.com)
-- [InstaChat](https://github.com/spicytuna/InstaChat) 
-- [Another simple chat app](https://github.com/luki3k5/meteor-chat-app)
-- [Simple Meteor chatroom ex.](https://github.com/dasniko/meteor-chat)
+
