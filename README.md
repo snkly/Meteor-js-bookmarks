@@ -49,3 +49,6 @@ meteor add '...'
 - [InstaChat](https://github.com/spicytuna/InstaChat) 
 - [Another simple chat app](https://github.com/luki3k5/meteor-chat-app)
 - [Simple Meteor chatroom ex.](https://github.com/dasniko/meteor-chat)
+
+- [Real time Chat (using this)](http://www.tobyvervaart.com.au/blog/meteor/build-a-real-time-chat-application-with-meteor/)
+- [Twitter API for thumbnails](http://meteortips.com/tutorial/twitter-login-provider/)
