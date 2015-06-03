@@ -52,3 +52,9 @@ meteor add '...'
 
 - [Real time Chat (using this)](http://www.tobyvervaart.com.au/blog/meteor/build-a-real-time-chat-application-with-meteor/)
 - [Twitter API for thumbnails](http://meteortips.com/tutorial/twitter-login-provider/)
+
+## Games
+- [rock paper scissors](https://github.com/edsadr/Meteor-Rock-Paper-Scissors)
+- [hang with me](https://github.com/francisbyrne/hangwithme)
+- Multiplayer Game Logic(https://gist.github.com/aaronthorp/8501381)
+- [Roborally](https://github.com/marcelpanse/roborally)
