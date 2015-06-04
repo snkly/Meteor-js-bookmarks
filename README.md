@@ -2,6 +2,7 @@
 - [Meteor Tips (book)](http://meteortips.com/book/introduction/)
 - [Fundamentals and Best Practices (2012)](http://andrewscala.com/meteor/)
 - [App in 45 minutes](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
+- [Meteor Tracker/autorun tutorial](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 
 ## Packages
 meteor add '...'
