@@ -3,6 +3,8 @@
 - [Fundamentals and Best Practices (2012)](http://andrewscala.com/meteor/)
 - [App in 45 minutes](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
 - [Meteor Tracker/autorun tutorial](https://github.com/meteor/meteor/wiki/Tracker-Manual)
+- [Scaling Meteor](http://projectricochet.com/blog/things-you-need-know-when-scaling-meteor-js#.VXIKqs9VhBd)
+- [scotch.io Meteor tutorials](https://scotch.io/tag/meteor)
 
 ## Packages
 meteor add '...'
@@ -17,6 +19,7 @@ meteor add '...'
 - [fortawesome:fontawesome](https://atmospherejs.com/fortawesome/fontawesome)
 - [mizzao:autocomplete // Autocomplete](https://atmospherejs.com/mizzao/autocomplete)
 - [add mizzao:user-status // User status/tracking](https://atmospherejs.com/mizzao/user-status)
+- [meteor-scrollto](https://atmospherejs.com/johnantoni/meteor-scrollto)
 
 #### accounts
 - [accounts-password // Password support](https://atmospherejs.com/meteor/accounts-password)
@@ -34,6 +37,9 @@ meteor add '...'
 #### charts and graphs
 - [d3js:d3 // D3.js](https://atmospherejs.com/d3js/d3)
 - [emdagon:c3js // C3js](https://atmospherejs.com/emdagon/c3js)
+
+#### time 
+- [momentjs:moment // Moment.js](https://atmospherejs.com/momentjs/moment)
 
 ## Twitter
 - [Exploring Twitter API with Meteor](http://artsdigital.co/exploring-twitter-api-meteor-js/)
