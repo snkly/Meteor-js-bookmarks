@@ -65,3 +65,4 @@ meteor add '...'
 - [hang with me](https://github.com/francisbyrne/hangwithme)
 - Multiplayer Game Logic(https://gist.github.com/aaronthorp/8501381)
 - [Roborally](https://github.com/marcelpanse/roborally)
+- [Multiplayer Sudoku](https://github.com/fstgerm/sudoku)
