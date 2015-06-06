@@ -5,6 +5,10 @@
 - [Meteor Tracker/autorun tutorial](https://github.com/meteor/meteor/wiki/Tracker-Manual)
 - [Scaling Meteor](http://projectricochet.com/blog/things-you-need-know-when-scaling-meteor-js#.VXIKqs9VhBd)
 - [scotch.io Meteor tutorials](https://scotch.io/tag/meteor)
+- [In search of Meteor Boilerplate](https://medium.com/things-i-did-and-learned-today/in-search-of-a-meteor-boilerplate-6f01fe5abfd1)
+
+## Utility
+- [Meteor Kitchen](http://www.meteorkitchen.com/)
 
 ## Packages
 meteor add '...'
@@ -66,3 +70,10 @@ meteor add '...'
 - Multiplayer Game Logic(https://gist.github.com/aaronthorp/8501381)
 - [Roborally](https://github.com/marcelpanse/roborally)
 - [Multiplayer Sudoku](https://github.com/fstgerm/sudoku)
+- [Scopa card game](https://github.com/andrew8088/scopa)
+- [Scopa card game again](https://github.com/FalloutX/meteor-card-game)
+- [Multiplayer card game framework ](https://github.com/thagberg/cards)
+- [CAH clone](https://github.com/chees/cardsagainsthumanity)
+- [CAH clone again](https://github.com/garggaurav/Cards-Against-Humanity)
+- [Memory game](https://github.com/schreuderjo/js-memory-game)
+- [Multiplayer Bridge](https://github.com/shashi/bridge)
